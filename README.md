@@ -1,4 +1,5 @@
-### Hi there 👋
+![Alt text](Codewars Badge)
+<img src="https://www.codewars.com/users/jezonek/badges/small">
 
 <!--
 **jezonek/jezonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
